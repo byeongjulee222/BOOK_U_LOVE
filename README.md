@@ -85,7 +85,7 @@ python manage.py runserver
 
 ```
 cd frontend
-npm instlal
+npm install
 npm run serve
 ```
 
