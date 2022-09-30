@@ -7,7 +7,7 @@ djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-yasg==1.17.1
 idna==2.9
-joblib==0.14.0
+joblib==1.2.0
 numpy==1.17.3
 konlpy==0.5.2
 nltk==3.5
